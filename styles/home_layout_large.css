@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	height: 125px;
+	font-size:56px;
+	background: #3465b3 url(../images/logowithoutshadow_large.png) no-repeat 50% 35px;
+}
+
+.construction {
+  width: 500px;
+  height: 500px;
+
+  margin: 110px auto;
+}
